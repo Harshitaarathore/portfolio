@@ -199,4 +199,13 @@ Go to **http://localhost:5173** 🎉
 **Harshita Rathore**
 B.Tech Computer Science, JK Lakshmipat University, Jaipur
 
-[![GitHub](https://img.shields.io/badge/GitHub
+[![GitHub](https://img.shields.io/badge/GitHub-Harshitaarathore-181717?style=flat&logo=github)](https://github.com/Harshitaarathore)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshita_Rathore-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/harshita-rathore-72006531a)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Harshita__Rathore-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Harshita_Rathore/)
+[![Email](https://img.shields.io/badge/Email-rharshita175@gmail.com-8C2A44?style=flat&logo=gmail&logoColor=white)](mailto:rharshita175@gmail.com)
+
+<div align="center">
+
+⭐ If you like this project, give it a star! ⭐
+
+</div>
