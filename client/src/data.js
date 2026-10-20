@@ -42,8 +42,8 @@ export const projects = [
       'Accessible from any device via browser',
     ],
     tech: ['Node.js', 'React', 'MySQL'],
-    github: '#',
-    live: '#',
+    github: 'https://github.com/Harshitaarathore/DOP-Portal-Final',
+    live: 'https://dop-portal-final.vercel.app',
   },
   {
     name: 'TrustLens — Scam Detection Platform',
@@ -58,8 +58,7 @@ export const projects = [
       'Led a team of 3 to a functional MVP inside a 72-hour hackathon window',
     ],
     tech: ['Supabase', 'Solana', 'Monad', 'AI APIs'],
-    github: '#',
-    live: '#',
+    github: 'https://github.com/Harshitaarathore/trustlens',
   },
   {
     name: 'Loan Pre-Eligibility Prediction System',
@@ -74,8 +73,7 @@ export const projects = [
       'Deployed with Flask for a real-time eligibility check web interface',
     ],
     tech: ['Python', 'Scikit-learn', 'Pandas', 'Flask'],
-    github: '#',
-    live: '#',
+    github: 'https://github.com/Harshitaarathore/loan-pre-eligibility-system',
   },
   {
     name: 'Lost & Found Management System',
@@ -89,8 +87,6 @@ export const projects = [
       'Replaced manual notice boards and WhatsApp coordination with one centralized system',
     ],
     tech: ['Node.js', 'MySQL', 'JavaScript'],
-    github: '#',
-    live: '#',
   },
   {
     name: 'BK Solar & Battery — Business Website',
@@ -103,8 +99,7 @@ export const projects = [
       'Built dynamic product showcases and a customer inquiry form with JavaScript',
     ],
     tech: ['HTML', 'CSS', 'JavaScript'],
-    github: '#',
-    live: '#',
+    github: 'https://github.com/Harshitaarathore/BK_solar_and_Batteries',
   },
 ];
 
