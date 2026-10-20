@@ -270,7 +270,7 @@ export default function SkillBubbles() {
         }}
       >
         {visible.map((s) => (
-          <div className="sk-bubble" key={s.name} style={bubbleStyle}>
+          <div className="sk-bubble" key={s.name} title={`${s.name}: ${s.level}% proficiency`}>
             <span style={{ pointerEvents: "none", padding: "0 6px", lineHeight: 1.1 }}>
               {s.name}
             </span>
